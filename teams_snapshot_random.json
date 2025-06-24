@@ -1,6 +1,6 @@
 [
     {
-        "name": "Tygrysy Kraków",
+        "name": "Górnicy Katowice",
         "group": "Grupa A",
         "group_stage_stats": {
             "points": 0,
@@ -13,327 +13,11 @@
         },
         "players": [
             {
-                "name": "Jacek Pawłowski",
-                "skills": {
-                    "attack": 7,
-                    "defense": 9,
-                    "aggression": 6
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Mateusz Jabłoński",
-                "skills": {
-                    "attack": 7,
-                    "defense": 7,
-                    "aggression": 8
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Robert Malinowski",
-                "skills": {
-                    "attack": 4,
-                    "defense": 6,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Sebastian Dudek",
+                "name": "Paweł Kamiński",
                 "skills": {
                     "attack": 8,
-                    "defense": 9,
-                    "aggression": 5
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Bartosz Michalski",
-                "skills": {
-                    "attack": 7,
-                    "defense": 6,
-                    "aggression": 5
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Jan Grabowski",
-                "skills": {
-                    "attack": 6,
-                    "defense": 8,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Filip Wróbel",
-                "skills": {
-                    "attack": 10,
-                    "defense": 10,
-                    "aggression": 6
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Dariusz Jabłoński",
-                "skills": {
-                    "attack": 6,
-                    "defense": 5,
-                    "aggression": 9
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Dariusz Mazur",
-                "skills": {
-                    "attack": 10,
-                    "defense": 3,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Artur Kowalczyk",
-                "skills": {
-                    "attack": 5,
-                    "defense": 3,
-                    "aggression": 9
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Marcin Nowicki",
-                "skills": {
-                    "attack": 5,
-                    "defense": 9,
-                    "aggression": 10
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            }
-        ]
-    },
-    {
-        "name": "Smoki Bydgoszcz",
-        "group": "Grupa A",
-        "group_stage_stats": {
-            "points": 0,
-            "matches_played": 0,
-            "wins": 0,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0
-        },
-        "players": [
-            {
-                "name": "Jakub Szymański",
-                "skills": {
-                    "attack": 3,
-                    "defense": 8,
-                    "aggression": 4
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Robert Wiśniewski",
-                "skills": {
-                    "attack": 3,
-                    "defense": 9,
-                    "aggression": 4
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Bartosz Kowalski",
-                "skills": {
-                    "attack": 4,
-                    "defense": 7,
-                    "aggression": 5
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Piotr Stępień",
-                "skills": {
-                    "attack": 5,
-                    "defense": 8,
-                    "aggression": 5
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Marcin Górski",
-                "skills": {
-                    "attack": 3,
-                    "defense": 5,
-                    "aggression": 9
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Michał Wójcik",
-                "skills": {
-                    "attack": 4,
-                    "defense": 6,
-                    "aggression": 5
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Jakub Jaworski",
-                "skills": {
-                    "attack": 4,
-                    "defense": 9,
-                    "aggression": 8
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Dawid Nowicki",
-                "skills": {
-                    "attack": 8,
-                    "defense": 9,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Kamil Olszewski",
-                "skills": {
-                    "attack": 6,
-                    "defense": 8,
-                    "aggression": 10
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Kamil Kowalski",
-                "skills": {
-                    "attack": 4,
-                    "defense": 10,
-                    "aggression": 2
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Szymon Szymański",
-                "skills": {
-                    "attack": 3,
                     "defense": 4,
-                    "aggression": 4
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            }
-        ]
-    },
-    {
-        "name": "Sokoły Częstochowa",
-        "group": "Grupa A",
-        "group_stage_stats": {
-            "points": 0,
-            "matches_played": 0,
-            "wins": 0,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0
-        },
-        "players": [
-            {
-                "name": "Paweł Dudek",
-                "skills": {
-                    "attack": 6,
-                    "defense": 7,
-                    "aggression": 7
+                    "aggression": 5
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -342,9 +26,9 @@
                 }
             },
             {
-                "name": "Dariusz Olszewski",
+                "name": "Adrian Kamiński",
                 "skills": {
-                    "attack": 7,
+                    "attack": 8,
                     "defense": 3,
                     "aggression": 3
                 },
@@ -355,24 +39,11 @@
                 }
             },
             {
-                "name": "Krzysztof Grabowski",
+                "name": "Szymon Kowalski",
                 "skills": {
-                    "attack": 5,
-                    "defense": 6,
-                    "aggression": 7
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Dariusz Jankowski",
-                "skills": {
-                    "attack": 7,
-                    "defense": 3,
-                    "aggression": 7
+                    "attack": 10,
+                    "defense": 7,
+                    "aggression": 10
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -383,21 +54,8 @@
             {
                 "name": "Jan Szymański",
                 "skills": {
-                    "attack": 9,
-                    "defense": 8,
-                    "aggression": 4
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Damian Mazur",
-                "skills": {
-                    "attack": 6,
-                    "defense": 3,
+                    "attack": 10,
+                    "defense": 5,
                     "aggression": 9
                 },
                 "tournament_stats": {
@@ -407,10 +65,36 @@
                 }
             },
             {
-                "name": "Jan Grabowski",
+                "name": "Mariusz Kozłowski",
                 "skills": {
-                    "attack": 6,
-                    "defense": 5,
+                    "attack": 3,
+                    "defense": 9,
+                    "aggression": 5
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Dariusz Piotrowski",
+                "skills": {
+                    "attack": 5,
+                    "defense": 8,
+                    "aggression": 3
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Bartosz Dudek",
+                "skills": {
+                    "attack": 5,
+                    "defense": 9,
                     "aggression": 6
                 },
                 "tournament_stats": {
@@ -420,11 +104,11 @@
                 }
             },
             {
-                "name": "Tomasz Kaczmarek",
+                "name": "Krzysztof Pawłowski",
                 "skills": {
-                    "attack": 4,
-                    "defense": 9,
-                    "aggression": 10
+                    "attack": 9,
+                    "defense": 8,
+                    "aggression": 5
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -433,11 +117,11 @@
                 }
             },
             {
-                "name": "Grzegorz Szymański",
+                "name": "Sebastian Kozłowski",
                 "skills": {
                     "attack": 5,
-                    "defense": 7,
-                    "aggression": 1
+                    "defense": 10,
+                    "aggression": 5
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -446,9 +130,9 @@
                 }
             },
             {
-                "name": "Damian Szymański",
+                "name": "Mateusz Kamiński",
                 "skills": {
-                    "attack": 4,
+                    "attack": 7,
                     "defense": 5,
                     "aggression": 4
                 },
@@ -459,11 +143,11 @@
                 }
             },
             {
-                "name": "Mariusz Olszewski",
+                "name": "Paweł Lewandowski",
                 "skills": {
                     "attack": 10,
-                    "defense": 4,
-                    "aggression": 6
+                    "defense": 7,
+                    "aggression": 5
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -487,127 +171,10 @@
         },
         "players": [
             {
-                "name": "Mateusz Woźniak",
+                "name": "Robert Grabowski",
                 "skills": {
-                    "attack": 3,
-                    "defense": 5,
-                    "aggression": 4
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Krzysztof Szymański",
-                "skills": {
-                    "attack": 5,
-                    "defense": 9,
-                    "aggression": 8
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Rafał Majewski",
-                "skills": {
-                    "attack": 5,
-                    "defense": 7,
-                    "aggression": 5
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Adrian Wróbel",
-                "skills": {
-                    "attack": 7,
-                    "defense": 9,
-                    "aggression": 2
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Sebastian Kaczmarek",
-                "skills": {
-                    "attack": 8,
-                    "defense": 4,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Damian Majewski",
-                "skills": {
-                    "attack": 3,
-                    "defense": 4,
-                    "aggression": 8
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Grzegorz Lewandowski",
-                "skills": {
-                    "attack": 5,
+                    "attack": 9,
                     "defense": 10,
-                    "aggression": 2
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Wojciech Lewandowski",
-                "skills": {
-                    "attack": 9,
-                    "defense": 3,
-                    "aggression": 5
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Andrzej Dudek",
-                "skills": {
-                    "attack": 8,
-                    "defense": 8,
-                    "aggression": 10
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Krzysztof Jabłoński",
-                "skills": {
-                    "attack": 9,
-                    "defense": 9,
                     "aggression": 6
                 },
                 "tournament_stats": {
@@ -617,221 +184,9 @@
                 }
             },
             {
-                "name": "Artur Krawczyk",
-                "skills": {
-                    "attack": 10,
-                    "defense": 7,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            }
-        ]
-    },
-    {
-        "name": "Smoki Wrocław",
-        "group": "Grupa B",
-        "group_stage_stats": {
-            "points": 0,
-            "matches_played": 0,
-            "wins": 0,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0
-        },
-        "players": [
-            {
-                "name": "Dawid Górski",
-                "skills": {
-                    "attack": 9,
-                    "defense": 5,
-                    "aggression": 9
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Dawid Jabłoński",
-                "skills": {
-                    "attack": 9,
-                    "defense": 4,
-                    "aggression": 9
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Wojciech Kozłowski",
-                "skills": {
-                    "attack": 9,
-                    "defense": 5,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Adam Wojciechowski",
-                "skills": {
-                    "attack": 3,
-                    "defense": 5,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Mateusz Kamiński",
-                "skills": {
-                    "attack": 10,
-                    "defense": 5,
-                    "aggression": 6
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Dawid Piotrowski",
-                "skills": {
-                    "attack": 10,
-                    "defense": 8,
-                    "aggression": 8
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Mariusz Kwiatkowski",
+                "name": "Damian Malinowski",
                 "skills": {
                     "attack": 7,
-                    "defense": 6,
-                    "aggression": 9
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Grzegorz Jabłoński",
-                "skills": {
-                    "attack": 6,
-                    "defense": 8,
-                    "aggression": 2
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Filip Mazur",
-                "skills": {
-                    "attack": 3,
-                    "defense": 5,
-                    "aggression": 8
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Kacper Jankowski",
-                "skills": {
-                    "attack": 3,
-                    "defense": 6,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Rafał Wójcik",
-                "skills": {
-                    "attack": 3,
-                    "defense": 10,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            }
-        ]
-    },
-    {
-        "name": "Korsarze Gdynia",
-        "group": "Grupa B",
-        "group_stage_stats": {
-            "points": 0,
-            "matches_played": 0,
-            "wins": 0,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0
-        },
-        "players": [
-            {
-                "name": "Łukasz Zieliński",
-                "skills": {
-                    "attack": 6,
-                    "defense": 3,
-                    "aggression": 5
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Arkadiusz Mazur",
-                "skills": {
-                    "attack": 3,
-                    "defense": 7,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Adam Wróbel",
-                "skills": {
-                    "attack": 5,
                     "defense": 10,
                     "aggression": 2
                 },
@@ -842,23 +197,10 @@
                 }
             },
             {
-                "name": "Arkadiusz Wojciechowski",
+                "name": "Damian Grabowski",
                 "skills": {
                     "attack": 9,
-                    "defense": 10,
-                    "aggression": 2
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Mariusz Krawczyk",
-                "skills": {
-                    "attack": 7,
-                    "defense": 8,
+                    "defense": 5,
                     "aggression": 10
                 },
                 "tournament_stats": {
@@ -868,10 +210,23 @@
                 }
             },
             {
-                "name": "Arkadiusz Kozłowski",
+                "name": "Michał Kaczmarek",
                 "skills": {
-                    "attack": 5,
-                    "defense": 4,
+                    "attack": 8,
+                    "defense": 10,
+                    "aggression": 4
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Kamil Król",
+                "skills": {
+                    "attack": 10,
+                    "defense": 6,
                     "aggression": 1
                 },
                 "tournament_stats": {
@@ -881,23 +236,10 @@
                 }
             },
             {
-                "name": "Szymon Jaworski",
+                "name": "Damian Woźniak",
                 "skills": {
-                    "attack": 7,
+                    "attack": 9,
                     "defense": 8,
-                    "aggression": 2
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Sebastian Lewandowski",
-                "skills": {
-                    "attack": 6,
-                    "defense": 4,
                     "aggression": 4
                 },
                 "tournament_stats": {
@@ -907,36 +249,10 @@
                 }
             },
             {
-                "name": "Krzysztof Nowak",
+                "name": "Michał Grabowski",
                 "skills": {
-                    "attack": 8,
-                    "defense": 5,
-                    "aggression": 4
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Mariusz Mazur",
-                "skills": {
-                    "attack": 8,
-                    "defense": 6,
-                    "aggression": 10
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Adrian Kamiński",
-                "skills": {
-                    "attack": 7,
-                    "defense": 5,
+                    "attack": 4,
+                    "defense": 9,
                     "aggression": 3
                 },
                 "tournament_stats": {
@@ -944,28 +260,39 @@
                     "yellow_cards": 0,
                     "red_cards": 0
                 }
-            }
-        ]
-    },
-    {
-        "name": "Gryfy Gdańsk",
-        "group": "Grupa B",
-        "group_stage_stats": {
-            "points": 0,
-            "matches_played": 0,
-            "wins": 0,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0
-        },
-        "players": [
+            },
             {
-                "name": "Bartosz Dąbrowski",
+                "name": "Jacek Wojciechowski",
+                "skills": {
+                    "attack": 3,
+                    "defense": 4,
+                    "aggression": 3
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Szymon Kowalski",
+                "skills": {
+                    "attack": 3,
+                    "defense": 4,
+                    "aggression": 7
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Artur Jankowski",
                 "skills": {
                     "attack": 4,
-                    "defense": 9,
-                    "aggression": 2
+                    "defense": 8,
+                    "aggression": 9
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -976,231 +303,8 @@
             {
                 "name": "Robert Zając",
                 "skills": {
-                    "attack": 3,
-                    "defense": 9,
-                    "aggression": 7
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Robert Pawłowski",
-                "skills": {
-                    "attack": 7,
-                    "defense": 8,
-                    "aggression": 2
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Adam Kozłowski",
-                "skills": {
-                    "attack": 3,
-                    "defense": 3,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Dariusz Michalski",
-                "skills": {
                     "attack": 4,
-                    "defense": 5,
-                    "aggression": 7
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Kamil Górski",
-                "skills": {
-                    "attack": 8,
-                    "defense": 7,
-                    "aggression": 3
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Marcin Majewski",
-                "skills": {
-                    "attack": 9,
                     "defense": 9,
-                    "aggression": 2
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Robert Stępień",
-                "skills": {
-                    "attack": 3,
-                    "defense": 9,
-                    "aggression": 6
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Jakub Jabłoński",
-                "skills": {
-                    "attack": 5,
-                    "defense": 4,
-                    "aggression": 4
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Adrian Piotrowski",
-                "skills": {
-                    "attack": 5,
-                    "defense": 3,
-                    "aggression": 10
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Rafał Jankowski",
-                "skills": {
-                    "attack": 9,
-                    "defense": 3,
-                    "aggression": 4
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            }
-        ]
-    },
-    {
-        "name": "Niedźwiedzie Zakopane",
-        "group": "Grupa B",
-        "group_stage_stats": {
-            "points": 0,
-            "matches_played": 0,
-            "wins": 0,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0
-        },
-        "players": [
-            {
-                "name": "Dariusz Zając",
-                "skills": {
-                    "attack": 5,
-                    "defense": 10,
-                    "aggression": 10
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Tomasz Mazur",
-                "skills": {
-                    "attack": 4,
-                    "defense": 8,
-                    "aggression": 9
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Kacper Wojciechowski",
-                "skills": {
-                    "attack": 10,
-                    "defense": 4,
-                    "aggression": 9
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Paweł Stępień",
-                "skills": {
-                    "attack": 9,
-                    "defense": 10,
-                    "aggression": 2
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Szymon Piotrowski",
-                "skills": {
-                    "attack": 8,
-                    "defense": 5,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Andrzej Wójcik",
-                "skills": {
-                    "attack": 8,
-                    "defense": 3,
-                    "aggression": 7
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Andrzej Dąbrowski",
-                "skills": {
-                    "attack": 5,
-                    "defense": 5,
                     "aggression": 5
                 },
                 "tournament_stats": {
@@ -1208,64 +312,12 @@
                     "yellow_cards": 0,
                     "red_cards": 0
                 }
-            },
-            {
-                "name": "Paweł Wojciechowski",
-                "skills": {
-                    "attack": 4,
-                    "defense": 4,
-                    "aggression": 10
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Robert Szymański",
-                "skills": {
-                    "attack": 6,
-                    "defense": 7,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Bartosz Wójcik",
-                "skills": {
-                    "attack": 7,
-                    "defense": 9,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Łukasz Grabowski",
-                "skills": {
-                    "attack": 8,
-                    "defense": 7,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
             }
         ]
     },
     {
-        "name": "Włókniarze Łódź",
-        "group": "Grupa C",
+        "name": "Jastrzębie Olsztyn",
+        "group": "Grupa A",
         "group_stage_stats": {
             "points": 0,
             "matches_played": 0,
@@ -1277,114 +329,10 @@
         },
         "players": [
             {
-                "name": "Paweł Szymański",
-                "skills": {
-                    "attack": 3,
-                    "defense": 7,
-                    "aggression": 3
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Michał Mazur",
-                "skills": {
-                    "attack": 6,
-                    "defense": 5,
-                    "aggression": 6
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Robert Jabłoński",
-                "skills": {
-                    "attack": 4,
-                    "defense": 10,
-                    "aggression": 3
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Kamil Wróbel",
-                "skills": {
-                    "attack": 6,
-                    "defense": 6,
-                    "aggression": 9
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Kacper Wojciechowski",
+                "name": "Bartosz Piotrowski",
                 "skills": {
                     "attack": 3,
                     "defense": 9,
-                    "aggression": 7
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Michał Wróbel",
-                "skills": {
-                    "attack": 4,
-                    "defense": 4,
-                    "aggression": 9
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Grzegorz Kowalski",
-                "skills": {
-                    "attack": 7,
-                    "defense": 6,
-                    "aggression": 5
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Kamil Jaworski",
-                "skills": {
-                    "attack": 10,
-                    "defense": 7,
-                    "aggression": 9
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Tomasz Kozłowski",
-                "skills": {
-                    "attack": 3,
-                    "defense": 10,
                     "aggression": 2
                 },
                 "tournament_stats": {
@@ -1394,11 +342,11 @@
                 }
             },
             {
-                "name": "Arkadiusz Mazur",
+                "name": "Dariusz Dąbrowski",
                 "skills": {
                     "attack": 5,
-                    "defense": 6,
-                    "aggression": 9
+                    "defense": 3,
+                    "aggression": 7
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -1407,63 +355,9 @@
                 }
             },
             {
-                "name": "Mateusz Szymański",
+                "name": "Filip Piotrowski",
                 "skills": {
-                    "attack": 8,
-                    "defense": 10,
-                    "aggression": 10
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            }
-        ]
-    },
-    {
-        "name": "Żubry Białystok",
-        "group": "Grupa C",
-        "group_stage_stats": {
-            "points": 0,
-            "matches_played": 0,
-            "wins": 0,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0
-        },
-        "players": [
-            {
-                "name": "Bartosz Woźniak",
-                "skills": {
-                    "attack": 9,
-                    "defense": 8,
-                    "aggression": 9
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Adrian Kozłowski",
-                "skills": {
-                    "attack": 5,
-                    "defense": 6,
-                    "aggression": 4
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Grzegorz Grabowski",
-                "skills": {
-                    "attack": 8,
+                    "attack": 6,
                     "defense": 5,
                     "aggression": 8
                 },
@@ -1474,36 +368,10 @@
                 }
             },
             {
-                "name": "Marcin Król",
-                "skills": {
-                    "attack": 7,
-                    "defense": 6,
-                    "aggression": 6
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Marcin Olszewski",
-                "skills": {
-                    "attack": 4,
-                    "defense": 4,
-                    "aggression": 2
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Jakub Jabłoński",
+                "name": "Łukasz Wójcik",
                 "skills": {
                     "attack": 6,
-                    "defense": 10,
+                    "defense": 7,
                     "aggression": 7
                 },
                 "tournament_stats": {
@@ -1513,11 +381,37 @@
                 }
             },
             {
-                "name": "Robert Krawczyk",
+                "name": "Damian Kowalczyk",
                 "skills": {
-                    "attack": 4,
+                    "attack": 5,
+                    "defense": 10,
+                    "aggression": 3
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Bartosz Nowak",
+                "skills": {
+                    "attack": 3,
+                    "defense": 10,
+                    "aggression": 3
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Filip Kamiński",
+                "skills": {
+                    "attack": 6,
                     "defense": 3,
-                    "aggression": 6
+                    "aggression": 9
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -1526,11 +420,11 @@
                 }
             },
             {
-                "name": "Jakub Nowicki",
+                "name": "Damian Nowak",
                 "skills": {
-                    "attack": 9,
+                    "attack": 7,
                     "defense": 7,
-                    "aggression": 4
+                    "aggression": 3
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -1539,7 +433,7 @@
                 }
             },
             {
-                "name": "Tomasz Piotrowski",
+                "name": "Krzysztof Dudek",
                 "skills": {
                     "attack": 9,
                     "defense": 5,
@@ -1552,11 +446,11 @@
                 }
             },
             {
-                "name": "Kamil Wojciechowski",
+                "name": "Robert Król",
                 "skills": {
-                    "attack": 10,
-                    "defense": 4,
-                    "aggression": 4
+                    "attack": 5,
+                    "defense": 9,
+                    "aggression": 1
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -1565,10 +459,10 @@
                 }
             },
             {
-                "name": "Marcin Kowalczyk",
+                "name": "Sebastian Zieliński",
                 "skills": {
-                    "attack": 5,
-                    "defense": 6,
+                    "attack": 4,
+                    "defense": 7,
                     "aggression": 2
                 },
                 "tournament_stats": {
@@ -1581,7 +475,7 @@
     },
     {
         "name": "Wilki Kielce",
-        "group": "Grupa C",
+        "group": "Grupa A",
         "group_stage_stats": {
             "points": 0,
             "matches_played": 0,
@@ -1593,49 +487,10 @@
         },
         "players": [
             {
-                "name": "Mariusz Wróbel",
+                "name": "Wojciech Kozłowski",
                 "skills": {
                     "attack": 5,
-                    "defense": 10,
-                    "aggression": 2
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Andrzej Kowalski",
-                "skills": {
-                    "attack": 5,
-                    "defense": 7,
-                    "aggression": 9
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Piotr Krawczyk",
-                "skills": {
-                    "attack": 7,
-                    "defense": 8,
-                    "aggression": 6
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Piotr Nowicki",
-                "skills": {
-                    "attack": 9,
-                    "defense": 3,
+                    "defense": 4,
                     "aggression": 10
                 },
                 "tournament_stats": {
@@ -1645,88 +500,10 @@
                 }
             },
             {
-                "name": "Szymon Pawłowski",
-                "skills": {
-                    "attack": 5,
-                    "defense": 10,
-                    "aggression": 2
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Rafał Wojciechowski",
+                "name": "Bartosz Kamiński",
                 "skills": {
                     "attack": 9,
-                    "defense": 6,
-                    "aggression": 4
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Filip Mazur",
-                "skills": {
-                    "attack": 5,
-                    "defense": 7,
-                    "aggression": 5
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Andrzej Zając",
-                "skills": {
-                    "attack": 8,
-                    "defense": 7,
-                    "aggression": 2
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Marcin Adamczyk",
-                "skills": {
-                    "attack": 5,
-                    "defense": 7,
-                    "aggression": 9
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Artur Stępień",
-                "skills": {
-                    "attack": 6,
-                    "defense": 10,
-                    "aggression": 5
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Michał Piotrowski",
-                "skills": {
-                    "attack": 8,
-                    "defense": 5,
+                    "defense": 8,
                     "aggression": 8
                 },
                 "tournament_stats": {
@@ -1734,105 +511,12 @@
                     "yellow_cards": 0,
                     "red_cards": 0
                 }
-            }
-        ]
-    },
-    {
-        "name": "Górnicy Katowice",
-        "group": "Grupa C",
-        "group_stage_stats": {
-            "points": 0,
-            "matches_played": 0,
-            "wins": 0,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0
-        },
-        "players": [
-            {
-                "name": "Dariusz Król",
-                "skills": {
-                    "attack": 4,
-                    "defense": 3,
-                    "aggression": 6
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
             },
             {
-                "name": "Jacek Olszewski",
+                "name": "Bartosz Dudek",
                 "skills": {
-                    "attack": 3,
-                    "defense": 3,
-                    "aggression": 3
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Dariusz Nowicki",
-                "skills": {
-                    "attack": 8,
-                    "defense": 3,
-                    "aggression": 10
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Adam Jaworski",
-                "skills": {
-                    "attack": 5,
-                    "defense": 4,
-                    "aggression": 6
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Łukasz Pawłowski",
-                "skills": {
-                    "attack": 9,
-                    "defense": 5,
-                    "aggression": 2
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Kacper Malinowski",
-                "skills": {
-                    "attack": 8,
-                    "defense": 5,
-                    "aggression": 3
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Jacek Stępień",
-                "skills": {
-                    "attack": 10,
-                    "defense": 6,
+                    "attack": 7,
+                    "defense": 9,
                     "aggression": 7
                 },
                 "tournament_stats": {
@@ -1842,11 +526,11 @@
                 }
             },
             {
-                "name": "Wojciech Piotrowski",
+                "name": "Jan Stępień",
                 "skills": {
-                    "attack": 6,
-                    "defense": 3,
-                    "aggression": 8
+                    "attack": 9,
+                    "defense": 9,
+                    "aggression": 3
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -1855,10 +539,10 @@
                 }
             },
             {
-                "name": "Damian Nowicki",
+                "name": "Adam Kowalczyk",
                 "skills": {
-                    "attack": 9,
-                    "defense": 3,
+                    "attack": 4,
+                    "defense": 10,
                     "aggression": 5
                 },
                 "tournament_stats": {
@@ -1868,10 +552,49 @@
                 }
             },
             {
-                "name": "Bartosz Mazur",
+                "name": "Jan Kwiatkowski",
                 "skills": {
                     "attack": 8,
+                    "defense": 10,
+                    "aggression": 9
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Michał Kwiatkowski",
+                "skills": {
+                    "attack": 9,
                     "defense": 7,
+                    "aggression": 1
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Łukasz Zając",
+                "skills": {
+                    "attack": 6,
+                    "defense": 6,
+                    "aggression": 3
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Damian Pawłowski",
+                "skills": {
+                    "attack": 8,
+                    "defense": 3,
                     "aggression": 4
                 },
                 "tournament_stats": {
@@ -1881,11 +604,24 @@
                 }
             },
             {
-                "name": "Mariusz Kowalski",
+                "name": "Paweł Woźniak",
                 "skills": {
-                    "attack": 3,
-                    "defense": 10,
+                    "attack": 10,
+                    "defense": 4,
                     "aggression": 9
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Rafał Nowak",
+                "skills": {
+                    "attack": 9,
+                    "defense": 9,
+                    "aggression": 7
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -1896,8 +632,8 @@
         ]
     },
     {
-        "name": "Feniksy Toruń",
-        "group": "Grupa D",
+        "name": "Tygrysy Kraków",
+        "group": "Grupa B",
         "group_stage_stats": {
             "points": 0,
             "matches_played": 0,
@@ -1909,10 +645,23 @@
         },
         "players": [
             {
-                "name": "Dawid Wiśniewski",
+                "name": "Arkadiusz Majewski",
                 "skills": {
-                    "attack": 8,
-                    "defense": 4,
+                    "attack": 6,
+                    "defense": 8,
+                    "aggression": 7
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Damian Wiśniewski",
+                "skills": {
+                    "attack": 10,
+                    "defense": 3,
                     "aggression": 4
                 },
                 "tournament_stats": {
@@ -1922,11 +671,11 @@
                 }
             },
             {
-                "name": "Szymon Mazur",
+                "name": "Arkadiusz Szymański",
                 "skills": {
-                    "attack": 3,
-                    "defense": 6,
-                    "aggression": 5
+                    "attack": 9,
+                    "defense": 7,
+                    "aggression": 9
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -1935,23 +684,10 @@
                 }
             },
             {
-                "name": "Jacek Nowak",
-                "skills": {
-                    "attack": 5,
-                    "defense": 6,
-                    "aggression": 10
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Arkadiusz Mazur",
+                "name": "Andrzej Jankowski",
                 "skills": {
                     "attack": 7,
-                    "defense": 4,
+                    "defense": 9,
                     "aggression": 2
                 },
                 "tournament_stats": {
@@ -1961,7 +697,46 @@
                 }
             },
             {
-                "name": "Krzysztof Król",
+                "name": "Adam Kowalczyk",
+                "skills": {
+                    "attack": 4,
+                    "defense": 4,
+                    "aggression": 9
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Mariusz Dąbrowski",
+                "skills": {
+                    "attack": 4,
+                    "defense": 4,
+                    "aggression": 7
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Kacper Adamczyk",
+                "skills": {
+                    "attack": 6,
+                    "defense": 9,
+                    "aggression": 7
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Adrian Kamiński",
                 "skills": {
                     "attack": 8,
                     "defense": 9,
@@ -1974,20 +749,7 @@
                 }
             },
             {
-                "name": "Paweł Zając",
-                "skills": {
-                    "attack": 6,
-                    "defense": 9,
-                    "aggression": 2
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Dariusz Adamczyk",
+                "name": "Jan Jaworski",
                 "skills": {
                     "attack": 8,
                     "defense": 7,
@@ -2000,11 +762,11 @@
                 }
             },
             {
-                "name": "Jan Wiśniewski",
+                "name": "Damian Nowicki",
                 "skills": {
-                    "attack": 9,
-                    "defense": 10,
-                    "aggression": 3
+                    "attack": 3,
+                    "defense": 8,
+                    "aggression": 8
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -2013,37 +775,11 @@
                 }
             },
             {
-                "name": "Rafał Nowicki",
-                "skills": {
-                    "attack": 9,
-                    "defense": 7,
-                    "aggression": 6
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Kamil Dąbrowski",
-                "skills": {
-                    "attack": 5,
-                    "defense": 5,
-                    "aggression": 6
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Adam Majewski",
+                "name": "Andrzej Majewski",
                 "skills": {
                     "attack": 6,
-                    "defense": 5,
-                    "aggression": 4
+                    "defense": 8,
+                    "aggression": 8
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -2055,7 +791,7 @@
     },
     {
         "name": "Syreny Szczecin",
-        "group": "Grupa D",
+        "group": "Grupa B",
         "group_stage_stats": {
             "points": 0,
             "matches_played": 0,
@@ -2067,181 +803,10 @@
         },
         "players": [
             {
-                "name": "Szymon Górski",
-                "skills": {
-                    "attack": 8,
-                    "defense": 5,
-                    "aggression": 2
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Marcin Pawłowski",
+                "name": "Robert Wiśniewski",
                 "skills": {
                     "attack": 3,
                     "defense": 6,
-                    "aggression": 5
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Andrzej Grabowski",
-                "skills": {
-                    "attack": 3,
-                    "defense": 8,
-                    "aggression": 7
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Łukasz Majewski",
-                "skills": {
-                    "attack": 10,
-                    "defense": 3,
-                    "aggression": 4
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Filip Lewandowski",
-                "skills": {
-                    "attack": 8,
-                    "defense": 7,
-                    "aggression": 7
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Artur Kozłowski",
-                "skills": {
-                    "attack": 5,
-                    "defense": 6,
-                    "aggression": 7
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Jakub Kozłowski",
-                "skills": {
-                    "attack": 5,
-                    "defense": 9,
-                    "aggression": 2
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Paweł Król",
-                "skills": {
-                    "attack": 3,
-                    "defense": 9,
-                    "aggression": 8
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Łukasz Kaczmarek",
-                "skills": {
-                    "attack": 3,
-                    "defense": 8,
-                    "aggression": 9
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Grzegorz Olszewski",
-                "skills": {
-                    "attack": 10,
-                    "defense": 3,
-                    "aggression": 9
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Mariusz Zieliński",
-                "skills": {
-                    "attack": 5,
-                    "defense": 3,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            }
-        ]
-    },
-    {
-        "name": "Jastrzębie Olsztyn",
-        "group": "Grupa D",
-        "group_stage_stats": {
-            "points": 0,
-            "matches_played": 0,
-            "wins": 0,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0
-        },
-        "players": [
-            {
-                "name": "Adam Woźniak",
-                "skills": {
-                    "attack": 10,
-                    "defense": 7,
-                    "aggression": 2
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Michał Nowak",
-                "skills": {
-                    "attack": 5,
-                    "defense": 3,
                     "aggression": 6
                 },
                 "tournament_stats": {
@@ -2251,11 +816,11 @@
                 }
             },
             {
-                "name": "Grzegorz Szymański",
+                "name": "Kamil Jankowski",
                 "skills": {
-                    "attack": 6,
-                    "defense": 9,
-                    "aggression": 2
+                    "attack": 8,
+                    "defense": 4,
+                    "aggression": 7
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -2264,11 +829,102 @@
                 }
             },
             {
-                "name": "Rafał Kowalczyk",
+                "name": "Łukasz Adamczyk",
                 "skills": {
-                    "attack": 6,
-                    "defense": 3,
+                    "attack": 9,
+                    "defense": 5,
+                    "aggression": 10
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Bartosz Zając",
+                "skills": {
+                    "attack": 7,
+                    "defense": 7,
+                    "aggression": 3
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Dariusz Zieliński",
+                "skills": {
+                    "attack": 4,
+                    "defense": 5,
+                    "aggression": 8
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Adam Dąbrowski",
+                "skills": {
+                    "attack": 4,
+                    "defense": 10,
+                    "aggression": 5
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Adam Lewandowski",
+                "skills": {
+                    "attack": 10,
+                    "defense": 5,
                     "aggression": 7
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Mateusz Piotrowski",
+                "skills": {
+                    "attack": 5,
+                    "defense": 8,
+                    "aggression": 7
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Arkadiusz Wójcik",
+                "skills": {
+                    "attack": 8,
+                    "defense": 7,
+                    "aggression": 7
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Mateusz Kwiatkowski",
+                "skills": {
+                    "attack": 3,
+                    "defense": 8,
+                    "aggression": 10
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -2279,7 +935,403 @@
             {
                 "name": "Artur Jankowski",
                 "skills": {
+                    "attack": 8,
+                    "defense": 5,
+                    "aggression": 9
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            }
+        ]
+    },
+    {
+        "name": "Sokoły Częstochowa",
+        "group": "Grupa B",
+        "group_stage_stats": {
+            "points": 0,
+            "matches_played": 0,
+            "wins": 0,
+            "draws": 0,
+            "losses": 0,
+            "goals_for": 0,
+            "goals_against": 0
+        },
+        "players": [
+            {
+                "name": "Arkadiusz Malinowski",
+                "skills": {
+                    "attack": 9,
+                    "defense": 4,
+                    "aggression": 8
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Adrian Pawłowski",
+                "skills": {
+                    "attack": 8,
+                    "defense": 8,
+                    "aggression": 9
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Jacek Nowak",
+                "skills": {
+                    "attack": 5,
+                    "defense": 10,
+                    "aggression": 4
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Sebastian Grabowski",
+                "skills": {
+                    "attack": 3,
+                    "defense": 6,
+                    "aggression": 2
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Tomasz Piotrowski",
+                "skills": {
+                    "attack": 7,
+                    "defense": 4,
+                    "aggression": 4
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Dariusz Kozłowski",
+                "skills": {
+                    "attack": 9,
+                    "defense": 10,
+                    "aggression": 6
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Dariusz Wiśniewski",
+                "skills": {
+                    "attack": 6,
+                    "defense": 7,
+                    "aggression": 6
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Jakub Król",
+                "skills": {
+                    "attack": 7,
+                    "defense": 3,
+                    "aggression": 3
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Michał Wojciechowski",
+                "skills": {
+                    "attack": 8,
+                    "defense": 7,
+                    "aggression": 5
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Jacek Adamczyk",
+                "skills": {
+                    "attack": 3,
+                    "defense": 7,
+                    "aggression": 9
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Krzysztof Krawczyk",
+                "skills": {
+                    "attack": 6,
+                    "defense": 6,
+                    "aggression": 3
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            }
+        ]
+    },
+    {
+        "name": "Żubry Białystok",
+        "group": "Grupa B",
+        "group_stage_stats": {
+            "points": 0,
+            "matches_played": 0,
+            "wins": 0,
+            "draws": 0,
+            "losses": 0,
+            "goals_for": 0,
+            "goals_against": 0
+        },
+        "players": [
+            {
+                "name": "Damian Mazur",
+                "skills": {
+                    "attack": 8,
+                    "defense": 5,
+                    "aggression": 10
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Mariusz Dudek",
+                "skills": {
+                    "attack": 5,
+                    "defense": 7,
+                    "aggression": 2
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Mariusz Jaworski",
+                "skills": {
+                    "attack": 7,
+                    "defense": 6,
+                    "aggression": 9
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Paweł Stępień",
+                "skills": {
+                    "attack": 9,
+                    "defense": 7,
+                    "aggression": 2
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Andrzej Wiśniewski",
+                "skills": {
+                    "attack": 5,
+                    "defense": 9,
+                    "aggression": 4
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Piotr Majewski",
+                "skills": {
+                    "attack": 4,
+                    "defense": 5,
+                    "aggression": 5
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Grzegorz Jaworski",
+                "skills": {
+                    "attack": 9,
+                    "defense": 5,
+                    "aggression": 4
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Tomasz Kaczmarek",
+                "skills": {
                     "attack": 10,
+                    "defense": 3,
+                    "aggression": 8
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Adrian Zieliński",
+                "skills": {
+                    "attack": 9,
+                    "defense": 3,
+                    "aggression": 4
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Krzysztof Wójcik",
+                "skills": {
+                    "attack": 6,
+                    "defense": 7,
+                    "aggression": 8
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Dawid Nowicki",
+                "skills": {
+                    "attack": 9,
+                    "defense": 9,
+                    "aggression": 7
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            }
+        ]
+    },
+    {
+        "name": "Wawel Kraków",
+        "group": "Grupa C",
+        "group_stage_stats": {
+            "points": 0,
+            "matches_played": 0,
+            "wins": 0,
+            "draws": 0,
+            "losses": 0,
+            "goals_for": 0,
+            "goals_against": 0
+        },
+        "players": [
+            {
+                "name": "Sebastian Kowalski",
+                "skills": {
+                    "attack": 7,
+                    "defense": 8,
+                    "aggression": 2
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Jan Olszewski",
+                "skills": {
+                    "attack": 7,
+                    "defense": 10,
+                    "aggression": 6
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Krzysztof Wiśniewski",
+                "skills": {
+                    "attack": 7,
+                    "defense": 9,
+                    "aggression": 8
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Dariusz Kamiński",
+                "skills": {
+                    "attack": 7,
+                    "defense": 6,
+                    "aggression": 3
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Grzegorz Dąbrowski",
+                "skills": {
+                    "attack": 9,
                     "defense": 3,
                     "aggression": 10
                 },
@@ -2290,10 +1342,62 @@
                 }
             },
             {
-                "name": "Marcin Kowalczyk",
+                "name": "Krzysztof Michalski",
                 "skills": {
-                    "attack": 5,
+                    "attack": 6,
+                    "defense": 3,
+                    "aggression": 6
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Jakub Woźniak",
+                "skills": {
+                    "attack": 3,
+                    "defense": 5,
+                    "aggression": 5
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Adam Wojciechowski",
+                "skills": {
+                    "attack": 8,
+                    "defense": 5,
+                    "aggression": 4
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Damian Kowalski",
+                "skills": {
+                    "attack": 8,
                     "defense": 4,
+                    "aggression": 1
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Dariusz Górski",
+                "skills": {
+                    "attack": 7,
+                    "defense": 6,
                     "aggression": 9
                 },
                 "tournament_stats": {
@@ -2303,7 +1407,48 @@
                 }
             },
             {
-                "name": "Grzegorz Woźniak",
+                "name": "Szymon Wróbel",
+                "skills": {
+                    "attack": 4,
+                    "defense": 5,
+                    "aggression": 9
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            }
+        ]
+    },
+    {
+        "name": "Husaria Rzeszów",
+        "group": "Grupa C",
+        "group_stage_stats": {
+            "points": 0,
+            "matches_played": 0,
+            "wins": 0,
+            "draws": 0,
+            "losses": 0,
+            "goals_for": 0,
+            "goals_against": 0
+        },
+        "players": [
+            {
+                "name": "Andrzej Woźniak",
+                "skills": {
+                    "attack": 8,
+                    "defense": 7,
+                    "aggression": 8
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Łukasz Grabowski",
                 "skills": {
                     "attack": 3,
                     "defense": 6,
@@ -2316,11 +1461,102 @@
                 }
             },
             {
-                "name": "Robert Jankowski",
+                "name": "Mateusz Dąbrowski",
+                "skills": {
+                    "attack": 8,
+                    "defense": 4,
+                    "aggression": 6
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Arkadiusz Adamczyk",
+                "skills": {
+                    "attack": 10,
+                    "defense": 10,
+                    "aggression": 1
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Filip Kozłowski",
+                "skills": {
+                    "attack": 3,
+                    "defense": 7,
+                    "aggression": 1
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Sebastian Grabowski",
+                "skills": {
+                    "attack": 3,
+                    "defense": 6,
+                    "aggression": 2
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Krzysztof Lewandowski",
+                "skills": {
+                    "attack": 8,
+                    "defense": 4,
+                    "aggression": 8
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Tomasz Wojciechowski",
+                "skills": {
+                    "attack": 3,
+                    "defense": 4,
+                    "aggression": 6
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Dariusz Kaczmarek",
                 "skills": {
                     "attack": 5,
+                    "defense": 7,
+                    "aggression": 1
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Paweł Wiśniewski",
+                "skills": {
+                    "attack": 3,
                     "defense": 8,
-                    "aggression": 4
+                    "aggression": 10
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -2329,37 +1565,11 @@
                 }
             },
             {
-                "name": "Jacek Majewski",
+                "name": "Damian Stępień",
                 "skills": {
-                    "attack": 6,
-                    "defense": 7,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Mariusz Wójcik",
-                "skills": {
-                    "attack": 7,
-                    "defense": 6,
-                    "aggression": 1
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Rafał Nowicki",
-                "skills": {
-                    "attack": 9,
-                    "defense": 7,
-                    "aggression": 6
+                    "attack": 10,
+                    "defense": 5,
+                    "aggression": 10
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -2370,7 +1580,323 @@
         ]
     },
     {
-        "name": "Stoczniowcy Sopot",
+        "name": "Orły Warszawa",
+        "group": "Grupa C",
+        "group_stage_stats": {
+            "points": 0,
+            "matches_played": 0,
+            "wins": 0,
+            "draws": 0,
+            "losses": 0,
+            "goals_for": 0,
+            "goals_against": 0
+        },
+        "players": [
+            {
+                "name": "Rafał Mazur",
+                "skills": {
+                    "attack": 10,
+                    "defense": 9,
+                    "aggression": 5
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Kamil Kwiatkowski",
+                "skills": {
+                    "attack": 7,
+                    "defense": 9,
+                    "aggression": 10
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Mariusz Stępień",
+                "skills": {
+                    "attack": 3,
+                    "defense": 10,
+                    "aggression": 3
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Damian Jaworski",
+                "skills": {
+                    "attack": 8,
+                    "defense": 10,
+                    "aggression": 7
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Jan Dudek",
+                "skills": {
+                    "attack": 9,
+                    "defense": 6,
+                    "aggression": 2
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Mariusz Kozłowski",
+                "skills": {
+                    "attack": 6,
+                    "defense": 3,
+                    "aggression": 4
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Bartosz Zieliński",
+                "skills": {
+                    "attack": 10,
+                    "defense": 5,
+                    "aggression": 8
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Jakub Stępień",
+                "skills": {
+                    "attack": 7,
+                    "defense": 5,
+                    "aggression": 10
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Tomasz Kozłowski",
+                "skills": {
+                    "attack": 5,
+                    "defense": 5,
+                    "aggression": 9
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Damian Olszewski",
+                "skills": {
+                    "attack": 3,
+                    "defense": 6,
+                    "aggression": 1
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Sebastian Kwiatkowski",
+                "skills": {
+                    "attack": 5,
+                    "defense": 7,
+                    "aggression": 2
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            }
+        ]
+    },
+    {
+        "name": "Feniksy Toruń",
+        "group": "Grupa C",
+        "group_stage_stats": {
+            "points": 0,
+            "matches_played": 0,
+            "wins": 0,
+            "draws": 0,
+            "losses": 0,
+            "goals_for": 0,
+            "goals_against": 0
+        },
+        "players": [
+            {
+                "name": "Mateusz Pawłowski",
+                "skills": {
+                    "attack": 9,
+                    "defense": 9,
+                    "aggression": 10
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Arkadiusz Nowak",
+                "skills": {
+                    "attack": 8,
+                    "defense": 3,
+                    "aggression": 9
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Bartosz Górski",
+                "skills": {
+                    "attack": 4,
+                    "defense": 3,
+                    "aggression": 9
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Robert Jankowski",
+                "skills": {
+                    "attack": 9,
+                    "defense": 6,
+                    "aggression": 6
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Łukasz Malinowski",
+                "skills": {
+                    "attack": 9,
+                    "defense": 6,
+                    "aggression": 8
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Kamil Wiśniewski",
+                "skills": {
+                    "attack": 6,
+                    "defense": 10,
+                    "aggression": 10
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Sebastian Woźniak",
+                "skills": {
+                    "attack": 10,
+                    "defense": 7,
+                    "aggression": 2
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Kacper Olszewski",
+                "skills": {
+                    "attack": 7,
+                    "defense": 9,
+                    "aggression": 1
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Jakub Szymański",
+                "skills": {
+                    "attack": 3,
+                    "defense": 10,
+                    "aggression": 3
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Dawid Kwiatkowski",
+                "skills": {
+                    "attack": 7,
+                    "defense": 8,
+                    "aggression": 3
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Jan Wiśniewski",
+                "skills": {
+                    "attack": 5,
+                    "defense": 5,
+                    "aggression": 9
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            }
+        ]
+    },
+    {
+        "name": "Korsarze Gdynia",
         "group": "Grupa D",
         "group_stage_stats": {
             "points": 0,
@@ -2383,49 +1909,23 @@
         },
         "players": [
             {
-                "name": "Kacper Dąbrowski",
-                "skills": {
-                    "attack": 3,
-                    "defense": 4,
-                    "aggression": 4
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Andrzej Zając",
-                "skills": {
-                    "attack": 3,
-                    "defense": 7,
-                    "aggression": 7
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Michał Dudek",
-                "skills": {
-                    "attack": 6,
-                    "defense": 8,
-                    "aggression": 5
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Adam Krawczyk",
+                "name": "Tomasz Wróbel",
                 "skills": {
                     "attack": 10,
-                    "defense": 10,
+                    "defense": 3,
+                    "aggression": 10
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Kamil Wróbel",
+                "skills": {
+                    "attack": 4,
+                    "defense": 5,
                     "aggression": 1
                 },
                 "tournament_stats": {
@@ -2435,9 +1935,74 @@
                 }
             },
             {
-                "name": "Jakub Piotrowski",
+                "name": "Adrian Wiśniewski",
                 "skills": {
-                    "attack": 5,
+                    "attack": 3,
+                    "defense": 8,
+                    "aggression": 8
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Krzysztof Dudek",
+                "skills": {
+                    "attack": 4,
+                    "defense": 6,
+                    "aggression": 9
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Marcin Mazur",
+                "skills": {
+                    "attack": 3,
+                    "defense": 7,
+                    "aggression": 5
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Tomasz Wróbel",
+                "skills": {
+                    "attack": 4,
+                    "defense": 7,
+                    "aggression": 6
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Rafał Król",
+                "skills": {
+                    "attack": 3,
+                    "defense": 3,
+                    "aggression": 4
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Adam Nowak",
+                "skills": {
+                    "attack": 4,
                     "defense": 10,
                     "aggression": 8
                 },
@@ -2448,11 +2013,11 @@
                 }
             },
             {
-                "name": "Arkadiusz Piotrowski",
+                "name": "Dawid Olszewski",
                 "skills": {
-                    "attack": 6,
-                    "defense": 8,
-                    "aggression": 9
+                    "attack": 4,
+                    "defense": 7,
+                    "aggression": 10
                 },
                 "tournament_stats": {
                     "goals": 0,
@@ -2461,49 +2026,10 @@
                 }
             },
             {
-                "name": "Andrzej Zieliński",
+                "name": "Wojciech Woźniak",
                 "skills": {
-                    "attack": 6,
-                    "defense": 5,
-                    "aggression": 9
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Marcin Kowalski",
-                "skills": {
-                    "attack": 6,
-                    "defense": 4,
-                    "aggression": 7
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Michał Wojciechowski",
-                "skills": {
-                    "attack": 10,
-                    "defense": 8,
-                    "aggression": 9
-                },
-                "tournament_stats": {
-                    "goals": 0,
-                    "yellow_cards": 0,
-                    "red_cards": 0
-                }
-            },
-            {
-                "name": "Michał Kowalski",
-                "skills": {
-                    "attack": 10,
-                    "defense": 4,
+                    "attack": 8,
+                    "defense": 6,
                     "aggression": 5
                 },
                 "tournament_stats": {
@@ -2513,11 +2039,485 @@
                 }
             },
             {
-                "name": "Kacper Wiśniewski",
+                "name": "Grzegorz Michalski",
+                "skills": {
+                    "attack": 8,
+                    "defense": 8,
+                    "aggression": 3
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            }
+        ]
+    },
+    {
+        "name": "Smoki Bydgoszcz",
+        "group": "Grupa D",
+        "group_stage_stats": {
+            "points": 0,
+            "matches_played": 0,
+            "wins": 0,
+            "draws": 0,
+            "losses": 0,
+            "goals_for": 0,
+            "goals_against": 0
+        },
+        "players": [
+            {
+                "name": "Rafał Szymański",
+                "skills": {
+                    "attack": 9,
+                    "defense": 4,
+                    "aggression": 10
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Damian Jankowski",
+                "skills": {
+                    "attack": 4,
+                    "defense": 7,
+                    "aggression": 3
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Mariusz Kaczmarek",
+                "skills": {
+                    "attack": 10,
+                    "defense": 6,
+                    "aggression": 7
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Robert Kowalski",
+                "skills": {
+                    "attack": 10,
+                    "defense": 3,
+                    "aggression": 10
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Piotr Adamczyk",
+                "skills": {
+                    "attack": 9,
+                    "defense": 7,
+                    "aggression": 10
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Krzysztof Grabowski",
+                "skills": {
+                    "attack": 4,
+                    "defense": 10,
+                    "aggression": 7
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Jacek Michalski",
+                "skills": {
+                    "attack": 3,
+                    "defense": 7,
+                    "aggression": 5
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Szymon Grabowski",
+                "skills": {
+                    "attack": 8,
+                    "defense": 9,
+                    "aggression": 3
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Krzysztof Majewski",
+                "skills": {
+                    "attack": 6,
+                    "defense": 7,
+                    "aggression": 6
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Sebastian Adamczyk",
                 "skills": {
                     "attack": 5,
                     "defense": 3,
+                    "aggression": 2
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Adam Woźniak",
+                "skills": {
+                    "attack": 4,
+                    "defense": 8,
+                    "aggression": 4
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            }
+        ]
+    },
+    {
+        "name": "Gryfy Gdańsk",
+        "group": "Grupa D",
+        "group_stage_stats": {
+            "points": 0,
+            "matches_played": 0,
+            "wins": 0,
+            "draws": 0,
+            "losses": 0,
+            "goals_for": 0,
+            "goals_against": 0
+        },
+        "players": [
+            {
+                "name": "Rafał Kwiatkowski",
+                "skills": {
+                    "attack": 7,
+                    "defense": 5,
                     "aggression": 10
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Bartosz Piotrowski",
+                "skills": {
+                    "attack": 3,
+                    "defense": 8,
+                    "aggression": 9
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Jacek Kamiński",
+                "skills": {
+                    "attack": 10,
+                    "defense": 3,
+                    "aggression": 7
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Bartosz Dudek",
+                "skills": {
+                    "attack": 3,
+                    "defense": 9,
+                    "aggression": 5
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Szymon Jabłoński",
+                "skills": {
+                    "attack": 7,
+                    "defense": 8,
+                    "aggression": 7
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Adam Malinowski",
+                "skills": {
+                    "attack": 9,
+                    "defense": 7,
+                    "aggression": 3
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Jacek Malinowski",
+                "skills": {
+                    "attack": 4,
+                    "defense": 9,
+                    "aggression": 3
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Jacek Kwiatkowski",
+                "skills": {
+                    "attack": 6,
+                    "defense": 5,
+                    "aggression": 3
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Damian Wiśniewski",
+                "skills": {
+                    "attack": 4,
+                    "defense": 3,
+                    "aggression": 10
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Michał Majewski",
+                "skills": {
+                    "attack": 10,
+                    "defense": 9,
+                    "aggression": 2
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Marcin Piotrowski",
+                "skills": {
+                    "attack": 5,
+                    "defense": 3,
+                    "aggression": 8
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            }
+        ]
+    },
+    {
+        "name": "Niedźwiedzie Zakopane",
+        "group": "Grupa D",
+        "group_stage_stats": {
+            "points": 0,
+            "matches_played": 0,
+            "wins": 0,
+            "draws": 0,
+            "losses": 0,
+            "goals_for": 0,
+            "goals_against": 0
+        },
+        "players": [
+            {
+                "name": "Piotr Kwiatkowski",
+                "skills": {
+                    "attack": 6,
+                    "defense": 7,
+                    "aggression": 10
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Piotr Mazur",
+                "skills": {
+                    "attack": 9,
+                    "defense": 3,
+                    "aggression": 7
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Szymon Zając",
+                "skills": {
+                    "attack": 5,
+                    "defense": 5,
+                    "aggression": 10
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Adrian Król",
+                "skills": {
+                    "attack": 4,
+                    "defense": 4,
+                    "aggression": 4
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Adam Wojciechowski",
+                "skills": {
+                    "attack": 5,
+                    "defense": 7,
+                    "aggression": 7
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Łukasz Jankowski",
+                "skills": {
+                    "attack": 4,
+                    "defense": 10,
+                    "aggression": 4
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Mariusz Woźniak",
+                "skills": {
+                    "attack": 3,
+                    "defense": 5,
+                    "aggression": 4
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Dariusz Kamiński",
+                "skills": {
+                    "attack": 5,
+                    "defense": 4,
+                    "aggression": 8
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Paweł Jaworski",
+                "skills": {
+                    "attack": 7,
+                    "defense": 9,
+                    "aggression": 2
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Sebastian Kwiatkowski",
+                "skills": {
+                    "attack": 7,
+                    "defense": 4,
+                    "aggression": 6
+                },
+                "tournament_stats": {
+                    "goals": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0
+                }
+            },
+            {
+                "name": "Mateusz Pawłowski",
+                "skills": {
+                    "attack": 7,
+                    "defense": 10,
+                    "aggression": 9
                 },
                 "tournament_stats": {
                     "goals": 0,

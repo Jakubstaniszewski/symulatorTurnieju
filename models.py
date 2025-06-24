@@ -59,13 +59,15 @@ class Team:
         self.goals_for = 0
         self.goals_against = 0
 
-    def add_player(self, first_name, last_name, attack=None, defense=None, aggression=None):
-        """Dodaje zawodnika do drużyny, przyjmując opcjonalne statystyki."""
-        if len(self.players) >= 11:
-            raise ValueError("Drużyna może mieć maksymalnie 11 zawodników.")
-        player = Player(first_name, last_name, self.name, attack, defense, aggression)
+    def add_player(self, first_name, last_name):
+        # Sprawdzamy, czy imię i nazwisko nie są pustymi stringami
+        if not first_name or not last_name:
+            raise ValueError("Imię i nazwisko gracza nie mogą być puste.")
+
+        # Tworzymy gracza, podając mu jego imię, nazwisko ORAZ nazwę drużyny (self.name)
+        player = Player(first_name, last_name, self.name)  # <--- POPRAWIONA LINIA
         self.players.append(player)
-        return player
+
 
     def remove_player(self, player_name):
         """Usuwa zawodnika z drużyny na podstawie jego imienia i nazwiska."""
@@ -157,6 +159,23 @@ class Match:
 class Tournament:
     """Główna klasa zarządzająca całym stanem i logiką turnieju."""
 
+    def to_dict(self):
+        """Konwertuje obiekt drużyny i jej zawodników na słownik do zapisu w JSON."""
+        return {
+            "name": self.name,
+            "group": self.group,
+            "group_stage_stats": {
+                "points": self.points,
+                "matches_played": self.matches_played,
+                "wins": self.wins,
+                "draws": self.draws,
+                "losses": self.losses,
+                "goals_for": self.goals_for,
+                "goals_against": self.goals_against
+            },
+            "players": [player.to_dict() for player in self.players]
+        }
+
     def __init__(self):
         self.reset_to_setup()
 
@@ -172,6 +191,8 @@ class Tournament:
         self.winner = None
 
     def add_team(self, name):
+        if not name or not name.strip():
+            raise ValueError("Nazwa drużyny nie może być pusta.")
         """Dodaje nową drużynę do turnieju (tylko w fazie SETUP)."""
         if self.phase != "SETUP":
             raise ValueError("Nie można dodawać drużyn po rozpoczęciu turnieju.")
@@ -190,6 +211,18 @@ class Tournament:
         else:
             raise ValueError("Nie znaleziono takiej drużyny.")
 
+    def find_team(self, name):
+        """Wyszukuje i zwraca obiekt drużyny o podanej nazwie."""
+        for team in self.teams:
+            if team.name == name:
+                return team
+        return None
+
+    def save_to_file(self, filename):
+        """Zapisuje stan turnieju do pliku JSON."""
+        with open(filename, 'w', encoding='utf-8') as f:
+            json.dump(self.to_dict(), f, ensure_ascii=False, indent=4)
+
     def generate_random_tournament(self):
         """Automatycznie generuje pełny turniej z losowymi drużynami i graczami."""
         self.reset_to_setup()
@@ -197,9 +230,10 @@ class Tournament:
         for name in selected_team_names:
             self.add_team(name)
             team = next(t for t in self.teams if t.name == name)
-            for _ in range(11):
-                # Dodajemy graczy bez statystyk - konstruktor Player sam je wylosuje
+            players_added = 0
+            while players_added < 11:
                 team.add_player(random.choice(first_names), random.choice(last_names))
+                players_added += 1
         self.start_tournament()
 
     def start_tournament(self):
@@ -283,19 +317,49 @@ class Tournament:
             return f"Zakończono {current_knockout_round}. Czas na {next_knockout_round_name}!"
 
     def _schedule_group_stage(self):
-        """Tworzy terminarz dla fazy grupowej (mecz i rewanż)."""
+        """Tworzy sprawiedliwy terminarz dla fazy grupowej (mecz i rewanż)."""
         self.matches = []
         for group_teams in self.groups.values():
-            schedule = []
-            for i in range(len(group_teams)):
-                for j in range(i + 1, len(group_teams)):
-                    schedule.append((group_teams[i], group_teams[j]))
-                    schedule.append((group_teams[j], group_teams[i]))
 
-            random.shuffle(schedule)
-            for i, match_teams in enumerate(schedule):
-                round_num = (i // 2) + 1
-                self.matches.append(Match(match_teams[0], match_teams[1], round_num, "GROUP"))
+            teams = list(group_teams)
+
+            if len(teams) % 2:
+                teams.append(None)
+
+            num_teams = len(teams)
+            num_rounds = num_teams - 1
+
+            first_leg_rounds = []
+            for round_num in range(num_rounds):
+                current_round_matches = []
+                for i in range(num_teams // 2):
+                    team1 = teams[i]
+                    team2 = teams[num_teams - 1 - i]
+
+                    if team1 is not None and team2 is not None:
+                        current_round_matches.append(Match(team1, team2, round_num + 1, "GROUP"))
+
+                first_leg_rounds.append(current_round_matches)
+
+                teams.insert(1, teams.pop())
+
+            second_leg_rounds = []
+            for i, round_matches in enumerate(first_leg_rounds):
+                current_round_matches = []
+                for match in round_matches:
+                    current_round_matches.append(Match(match.team2, match.team1, num_rounds + i + 1, "GROUP"))
+                second_leg_rounds.append(current_round_matches)
+
+            all_rounds = first_leg_rounds + second_leg_rounds
+
+            random.shuffle(all_rounds)
+
+            round_counter = 1
+            for round_matches in all_rounds:
+                for match in round_matches:
+                    match.round = round_counter
+                    self.matches.append(match)
+                round_counter += 1
 
     def _simulate_match_result(self, match):
         """Symuluje wynik jednego meczu na podstawie statystyk i losowości."""
@@ -317,7 +381,7 @@ class Tournament:
                 match.winner = match.team1
             elif score2 > score1:
                 match.winner = match.team2
-            else:  # Remis -> losowy zwycięzca (symulacja karnych)
+            else:
                 match.winner = random.choice([match.team1, match.team2])
                 match.add_event(91, "INFO", None,
                                 f"Mecz rozstrzygnięty w rzutach karnych. Wygrywa: {match.winner.name}")
@@ -332,7 +396,6 @@ class Tournament:
             scorer.goals += 1
             match.add_event(random.randint(1, 90), "GOAL", scorer)
 
-        # Przypisanie goli dla drużyny 2
         for _ in range(match.score2):
             scorers_pool = [p for p in match.team2.players if p.red_cards == 0]
             if not scorers_pool: continue
@@ -345,7 +408,7 @@ class Tournament:
         for player in all_players_in_match:
             # Szansa na żółtą kartkę rośnie z agresją
             if random.randint(1, 100) < player.aggression * 2:
-                if player.yellow_cards % 2 == 1:  # Jeśli ma już jedną żółtą
+                if player.yellow_cards % 2 == 1:
                     player.red_cards += 1
                     match.add_event(random.randint(1, 90), "RED_CARD", player, "Druga żółta")
                 else:
@@ -368,3 +431,78 @@ class Tournament:
             Match(qualifiers["Grupa D"][0], qualifiers["Grupa C"][1], 1, "KNOCKOUT"),
         ]
         self.knockout_matches["Quarter-finals"] = qf_matches
+
+
+class PlayerStatsReporter(Player):
+    def __init__(self, all_players_list):
+
+        super().__init__(first_name="Stat-Bot", last_name="Reporter", team_name="System")
+
+        self.players_to_report_on = all_players_list
+
+
+    def get_top_scorers_ranking(self, top_n=5):
+
+        sorted_by_goals = sorted(self.players_to_report_on, key=lambda p: p.goals, reverse=True)
+
+        ranking = []
+        for i, player in enumerate(sorted_by_goals[:top_n]):
+            if player.goals > 0:
+                ranking_entry = (i + 1, player)
+                ranking.append(ranking_entry)
+            else:
+
+                break
+        return ranking
+
+    def display_top_scorers(self, top_n=5):
+        print(f"\n--- NAJLEPSI STRZELCY (TOP {top_n}) ---")
+
+        top_scorers_ranking = self.get_top_scorers_ranking(top_n)
+
+        if not top_scorers_ranking:
+            print("Nikt jeszcze nie strzelił gola.")
+            return
+
+        for position, player in top_scorers_ranking:
+            print(f"{position}. {player.name} ({player.team_name}) - {player.goals} goli")
+
+    def display_card_offenders(self):
+        print("\n--- ZAWODNICY Z NAJWIĘKSZĄ LICZBĄ KARTEK ---")
+
+        offenders = list(filter(
+            lambda p: p.yellow_cards > 0 or p.red_cards > 0,
+            self.players_to_report_on
+        ))
+
+        sorted_by_cards = sorted(
+            offenders,
+            key=lambda p: (p.red_cards * 3 + p.yellow_cards),
+            reverse=True
+        )
+
+        if not sorted_by_cards:
+            print("Żaden zawodnik nie otrzymał kartki.")
+            return
+
+        for player in sorted_by_cards[:5]:
+            print(f"- {player.name}: {player.yellow_cards} żółtych, {player.red_cards} czerwonych")
+
+    def display_full_stats_table(self):
+        print("\n--- PEŁNE STATYSTYKI ZAWODNIKÓW ---")
+        header = f"{'Zawodnik':<25} | {'Drużyna':<20} | {'Gole':>5} | {'Ż.K.':>5} | {'Cz.K.':>5}"
+        print(header)
+        print("-" * len(header))
+
+        sorted_players = sorted(self.players_to_report_on, key=lambda p: p.last_name)
+
+        format_row = lambda p: (
+            f"{p.name:<25} | {p.team_name:<20} | {p.goals:>5} | {p.yellow_cards:>5} | {p.red_cards:>5}"
+        )
+
+        formatted_rows_iterator = map(format_row, sorted_players)
+
+        for row in formatted_rows_iterator:
+            print(row)
+
+        print("-" * len(header))
